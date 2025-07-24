@@ -5,7 +5,7 @@ This project showcases my skills, projects, and experience as a software enginee
 
 ## 📌 Live Demo
 
-👉 [View Portfolio](https://your-portfolio-link.com)
+👉 [View Portfolio](https://muddasirbutt3.github.io/MuddasirButt/)
 
 ---
 
